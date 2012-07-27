@@ -1,4 +1,17 @@
-my-noir-ws
-==========
+# my-website
 
-Playing with Noir to build RESTful web services
+A website written in noir. 
+
+## Usage
+
+```bash
+lein deps
+lein run
+```
+
+## License
+
+Copyright (C) 2012 SixSq
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
